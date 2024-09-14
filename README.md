@@ -13,15 +13,9 @@ Credit card fraud is a growing problem, and identifying fraudulent transactions 
 - **Evaluation:** Assessing model performance using accuracy, precision, recall, F1-score, and ROC curve.
 - **Insights:** Key takeaways and insights from the analysis and modeling process.
 
-## Files Included
-- `notebooks/`: Jupyter notebooks containing the step-by-step analysis and implementation of fraud detection models.
-- `data/`: Sample dataset (if applicable, or specify a link to the dataset).
-- `scripts/`: Python scripts used for data preprocessing, modeling, and evaluation.
-- `README.md`: This file containing details about the project.
-  
 ## Setup Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/card-swipe-fraud-insights.git
+   git clone https://github.com/prasad01198/card-swipe-fraud-insights.git
    cd card-swipe-fraud-insights
